@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner/bin/Debug/netcoreapp1.1/AirLinePlanner.deps.json
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner/bin/Debug/netcoreapp1.1/AirLinePlanner.runtimeconfig.json
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner/bin/Debug/netcoreapp1.1/AirLinePlanner.runtimeconfig.dev.json
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner/obj/Debug/netcoreapp1.1/AirLinePlanner.AssemblyInfo.cs
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner/bin/Debug/netcoreapp1.1/AirLinePlanner.dll
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner/bin/Debug/netcoreapp1.1/AirLinePlanner.pdb
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner/obj/Debug/netcoreapp1.1/AirLinePlanner.dll
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner/obj/Debug/netcoreapp1.1/AirLinePlanner.pdb

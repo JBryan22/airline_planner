@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/AirLinePlanner.Tests.deps.json
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/AirLinePlanner.Tests.runtimeconfig.json
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/AirLinePlanner.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/obj/Debug/netcoreapp1.1/AirLinePlanner.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/AirLinePlanner.Tests.dll
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/AirLinePlanner.Tests.pdb
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/AirLinePlanner.dll
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/bin/Debug/netcoreapp1.1/AirLinePlanner.pdb
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/obj/Debug/netcoreapp1.1/AirLinePlanner.Tests.dll
+/Users/Guest/Desktop/AirLinePlanner.Solution/AirLinePlanner.Tests/obj/Debug/netcoreapp1.1/AirLinePlanner.Tests.pdb

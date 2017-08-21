@@ -1,0 +1,27 @@
+<h1>To Do List</h1>
+<hr />
+<h2>Tasks:</h2>
+@if (Model.Count != 0)
+{
+  <ul>
+    @foreach (var task in Model["unfinished"])
+    {
+      <li><a href='/tasks/@task.GetId()'>@task.GetDescription()</a></li>
+      <li>Due date: @task.GetDueDate().DayOfWeek</li> @task.GetDueDate().ToString("MM/dd/yy")
+      <a href="/task/@task.GetId()/finished">Mark as Complete</a>
+    }
+  </ul>
+  <ul>
+  <div class="jumbotron"
+      <h3>Finished Tasks:</h3>
+      @foreach (var task in Model["finished"])
+      {
+        <li><a href='/tasks/@task.GetId()'>@task.GetDescription()</a></li>
+        <li>Due date: @task.GetDueDate().DayOfWeek</li> @task.GetDueDate().ToString("MM/dd/yy")
+      }
+      </ul>
+}
+<h2>You have no any task.</h2>
+</div>
+<h4><a href="/tasks/new">Add new task</a></h4>
+<h4><a href="/">Return home</a></h4>
